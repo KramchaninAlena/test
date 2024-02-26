@@ -17,8 +17,8 @@ ul {
   button {
   cursor: pointer;
   color: inherit;
-  background-color: transparent;
-  border: none;
+  /* background-color: transparent; */
+  border: transparent;
   }
 
   a {

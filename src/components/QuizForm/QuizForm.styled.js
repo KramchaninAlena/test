@@ -5,6 +5,7 @@ import styled from "styled-components";
 export const StyleForm = styled(Form)`
 width: 500px;
 margin: 0 auto;
+margin-top: 20px;
 padding: 20px;
 border: 1px solid black;
 display: flex;
